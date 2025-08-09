@@ -5,26 +5,26 @@
     "creators": ["nexyium"],
     "verifier": "nexyium",
     "verification": "",
-    "percentToQualify": "Complete Level",
-    "password": "n/a",
+    "percentToQualify": "100",
+    "password": "0",
     "records": [
         {
             "user": "Zypor",
             "link": "",
             "percent": 100,
-            "hz": 0
+            "hz": 120
         },
         {
             "user": "Mjautra",
             "link": "",
             "percent": 100,
-            "hz": 0
+            "hz": 120
         },
         {
             "user": "ChatonMagique",
             "link": "",
             "percent": 100,
-            "hz": 0
+            "hz": 120
         }
     ]
 }
