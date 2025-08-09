@@ -1,0 +1,42 @@
+{
+    "id": 0,
+    "name": "if i got shot",
+    "author": "Rapid",
+    "creators": ["Rapid"],
+    "verifier": "Rapid",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "lostblue",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Guest6558",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ChatonMagique",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Martin Luther King Jr.",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Sunbad",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
