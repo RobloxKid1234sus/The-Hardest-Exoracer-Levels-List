@@ -1,5 +1,5 @@
 {
-    "id": Link In Discord,
+    "id": 0,
     "name": "EE45 - Nexyium",
     "author": "MagicTurtle322",
     "creators": ["MagicTurtle322"],
@@ -11,20 +11,20 @@
         {
             "user": "Zypor",
             "link": "",
-            "percent": Completed,
-            "hz": n/a
+            "percent": 100,
+            "hz": 0
         },
         {
             "user": "Mjautra",
             "link": "",
-            "percent": Completed,
-            "hz": n/a
+            "percent": 100,
+            "hz": 0
         },
         {
             "user": "ChatonMagique",
             "link": "",
-            "percent": Completed,
-            "hz": n/a
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
