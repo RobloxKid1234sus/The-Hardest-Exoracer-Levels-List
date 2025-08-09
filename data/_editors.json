@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Rapid",
+        "link": "https://www.youtube.com/@exoracerrevive"
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "n/a",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "n/a",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "n/a",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "n/a",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
