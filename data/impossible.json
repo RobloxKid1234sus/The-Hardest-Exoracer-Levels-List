@@ -9,6 +9,10 @@
     "password": "0",
     "records": [
         {
+            "user": "Martin Luther King Jr.",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
