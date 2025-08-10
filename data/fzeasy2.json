@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "FZ Easy 2",
+    "author": "Rapid",
+    "creators": ["Rapid"],
+    "verifier": "BoltDaPotato",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "Placeholder if No Victors",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
