@@ -88,21 +88,26 @@
         },
         {
             "user": "lostblue",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "",
             "percent": 100,
             "hz": 120
         },
         {
             "user": "BoltDaPotato",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "",
             "percent": 100,
             "hz": 120
         },
         {
             "user": "Chris",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "",
             "percent": 100,
             "hz": 120
-        }
+        },
+        {
+            "user": "Doge":
+            "link": "",
+            "percent": 100,
+            "hz": 120
     ]
 }
