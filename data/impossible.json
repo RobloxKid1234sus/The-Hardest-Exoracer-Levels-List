@@ -9,10 +9,15 @@
     "password": "0",
     "records": [
         {
-            "user": "Placeholder if No Victors",
+            "user": "cland",
             "link": "",
             "percent": 100,
             "hz": 120
-        }
+        },
+        {
+            "user": "BoltDaPotato",
+            "link": "",
+            "percent": 100,
+            "hz": 120
     ]
 }
