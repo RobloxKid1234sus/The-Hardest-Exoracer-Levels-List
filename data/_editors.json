@@ -3,25 +3,5 @@
         "role": "owner",
         "name": "Rapid",
         "link": "https://www.youtube.com/@exoracerrevive"
-    },
-    {
-        "role": "admin",
-        "name": "n/a",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "n/a",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "n/a",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "n/a",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
