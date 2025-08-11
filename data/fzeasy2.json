@@ -1,6 +1,6 @@
 {
     "id": 0,
-    "name": "FZ Easy 2",
+    "name": "FZEasy 2",
     "author": "Rapid",
     "creators": ["Rapid"],
     "verifier": "BoltDaPotato",
@@ -9,7 +9,7 @@
     "password": "0",
     "records": [
         {
-            "user": "Placeholder if No Victors",
+            "user": "Cland",
             "link": "",
             "percent": 100,
             "hz": 120
