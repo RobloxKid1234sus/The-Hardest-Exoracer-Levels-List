@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Pain",
+    "author": "BoltDaPotato",
+    "creators": ["BoltDaPotato"],
+    "verifier": "BoltDaPotato",
+    "verification": "https://youtu.be/kSoRuhXIT_A?si=_Kq1SN-qH12_rdOR",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "Placeholder if No Victors",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
