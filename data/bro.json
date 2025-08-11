@@ -1,1 +1,18 @@
-
+{
+    "id": 0,
+    "name": "Bro.",
+    "author": "BoltDaPotato",
+    "creators": ["BoltDaPotato"],
+    "verifier": "BoltDaPotato",
+    "verification": "https://youtu.be/YVZn2XRxvBI?si=y-CHZ2QpfCbgddUD",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "Placeholder if No Victors",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
